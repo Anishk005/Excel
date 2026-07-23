@@ -11,16 +11,16 @@ The dataset used in this project is available in this GitHub repository:
 It contains transaction-level e-commerce sales data with fields such as Order ID, Order Date, Category, Product, State, Quantity, Unit Price, Discount, Order Amount, Order Status, Payment Mode, and Sales Channel. The dataset was cleaned, transformed, and analyzed using Microsoft Excel to build an interactive sales dashboard.
 
 ## Questions (KPIs)
-What is the total revenue generated from e-commerce sales?
-How many orders were placed during the selected period?
-What is the average order value?
-How many orders have been successfully delivered?
-Which product category generates the highest order amount?
-Which states contribute the highest sales revenue?
-How does monthly sales performance vary throughout the year?
-What is the distribution of order statuses (Delivered, Cancelled, Pending, Returned)?
-Which sales channel (Mobile App or Website) generates more orders?
-How do sales change when filtered by Category, State, Month, Order Status, Payment Mode, or Sales Channel?
+-What is the total revenue generated from e-commerce sales?
+-How many orders were placed during the selected period?
+-What is the average order value?
+-How many orders have been successfully delivered?
+-Which product category generates the highest order amount?
+-Which states contribute the highest sales revenue?
+-How does monthly sales performance vary throughout the year?
+-What is the distribution of order statuses (Delivered, Cancelled, Pending, Returned)?
+-Which sales channel (Mobile App or Website) generates more orders?
+-How do sales change when filtered by Category, State, Month, Order Status, Payment Mode, or Sales Channel?
 
 - Dahboard Interaction <a href= https://github.com/Anishk005/Excel/blob/main/WhatsApp%20Image%202026-07-23%20at%2020.01.01.jpeg>View Dashboard</a>
 
