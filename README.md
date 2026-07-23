@@ -35,3 +35,15 @@ It contains transaction-level e-commerce sales data with fields such as Order ID
 ## Dashboard 
 <img width="1600" height="941" alt="E com sales Dashboard" src="https://github.com/user-attachments/assets/f8b5c16c-e358-4330-b5ca-388a542888d9" />
 
+## 📈 Project Insights
+Fashion category generated the highest sales revenue among all product categories.
+Sales performance varied across states, helping identify top-performing regions.
+Monthly sales trends revealed fluctuations that can support seasonal planning.
+Mobile App accounted for a larger share of orders compared to the Website.
+Delivered orders represented the majority of total orders, while cancelled, pending, and returned orders highlighted opportunities for operational improvement.
+Interactive slicers enabled dynamic analysis across categories, months, payment modes, channels, and order statuses.
+
+##✅ Conclusion
+
+This project demonstrates the complete workflow of an e-commerce sales analysis using Microsoft Excel, from data cleaning and transformation to dashboard development and business insight generation. By leveraging Excel functions, PivotTables, PivotCharts, KPI cards, and slicers, the dashboard provides an interactive and efficient way to monitor sales performance. The project showcases practical Excel and business analytics skills applicable to real-world data analysis and reporting scenarios.
+
